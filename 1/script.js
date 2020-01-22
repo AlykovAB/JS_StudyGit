@@ -21,3 +21,5 @@ for (let key in options) {
 }
 console.log(Object.keys(options).length);
 
+1
+
